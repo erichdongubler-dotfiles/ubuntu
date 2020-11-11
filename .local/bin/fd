@@ -1,0 +1,6 @@
+#! /bin/sh
+
+# On Ubuntu, the `fd-find` package installs a binary called `fdfind`.
+# See https://github.com/sharkdp/fd#on-ubuntu.
+
+/usr/bin/fdfind "$@"
