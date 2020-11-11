@@ -1,0 +1,3 @@
+#! /bin/sh
+
+vcsh clone git@github.com:erichdongubler/linux
